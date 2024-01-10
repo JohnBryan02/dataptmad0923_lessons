@@ -32,6 +32,6 @@ Tableau products query relational databases, online analytical processing cubes,
 
 - [Financial Times Visual Vocabulary](https://www.vizwiz.com/2018/07/visual-vocabulary.html)
 
-- [Download Tableau Public for MAC v.2023.3](http://www.potacho.com/files/ironhack/TableauPublicDesktopWindows.zip)
+- [Download Tableau Public for Windows v.2023.3](http://www.potacho.com/files/ironhack/TableauPublicDesktopWindows.zip)
 
-- [Download Tableau Public for Windows v.2023.3](http://www.potacho.com/files/ironhack/TableauPublicDesktopMac.zip)
+- [Download Tableau Public for MAC v.2023.3](http://www.potacho.com/files/ironhack/TableauPublicDesktopMac.zip)
